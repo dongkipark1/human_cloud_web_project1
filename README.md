@@ -6,7 +6,7 @@
 다양한 공고를 통해 지원을 하고 원하는 인재를 찾기 위한 공고를 올리는게 가능한 페이지입니다.</br>
 
 # 시연영상
-
+[3조 시연 영상](https://youtu.be/imRPNsESinA?si=MiTCwWKLbCOJd-Ni)
 
 # 발표자료
 [3조_이력서_홈페이지_제작_PPT.pdf](https://drive.usercontent.google.com/u/0/uc?id=1MbFXF5yFTtzqYftx6La-jFZwx9N559hm&export=download)
